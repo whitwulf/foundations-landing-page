@@ -72,3 +72,47 @@ ul {
   border-radius: 15px;
   height: 40px;
 }
+
+
+.info-title {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  margin: 50px;
+}
+
+.info-list {
+  justify-content: space-evenly;
+  align-items: center;
+  padding-left: 70px;
+}
+
+.info-list-img {
+  width: 60%;
+  border-radius: 15px;
+}
+
+.info {
+  margin-bottom: 70px;
+}
+
+.quote {
+  background-color: #E5E7EB;
+}
+
+.quote-text {
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+  text-align: center;
+  padding-top: 70px;
+}
+
+.quote-attribute {
+  text-align: right;
+  padding-right: 15%;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 70px;
+}
